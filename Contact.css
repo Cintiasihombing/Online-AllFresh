@@ -1,0 +1,65 @@
+.header{
+    width: 100%;
+    background-color: rgb(47, 186, 255);
+}
+
+.nav-link{
+    color: aliceblue !important;
+}
+
+.navbar-brand{
+    color: aliceblue !important;
+}
+h1{
+    margin-left: 50px;
+    margin-top: 150px;  
+    color:black;
+}
+
+#contact {
+	padding				: 5px;
+	width				: 99%;
+	height				: auto;
+	background-color	: white;
+	position			: relative;
+	margin				: auto;
+	font-size			: 20px;
+}
+.contact {
+	background-color	: none;
+	width				: 100%;
+	height				: auto;
+	margin-bottom		: 5px;
+}
+.contact h2 {
+	background-color	: rgb(47, 154, 255);
+	height				: 40px;
+	color				: white;
+	text-align			: center;
+	padding-top			: 4px;
+	padding-bottom 		: 4px;
+}
+.tablecontact {
+	color				: white
+	padding-left		: 20px;	
+}
+.kolom1 {
+	width				: 20%;	
+}
+.kolom2 {
+	width				: 80%;
+}
+
+.footer{
+    background-color: rgb(47, 154, 255);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+
+}
+
+.footer p{
+    color: white;
+    font-size: 18px;
+}
